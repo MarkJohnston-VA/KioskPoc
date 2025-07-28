@@ -178,5 +178,5 @@ document.addEventListener('DOMContentLoaded', function() {
 
 // Utility function for greeting (kept for compatibility)
 function greetUser(name = 'Guest') {
-    return `Hello, ${name}! Welcome to our kiosk.`;
+    return `Hello, ${name}! Welcome to the CDCE kiosk demo.`;
 }
