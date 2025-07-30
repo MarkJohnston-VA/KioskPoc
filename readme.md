@@ -1,10 +1,10 @@
-# Kiosk Test App
+# Kiosk Production App
 
-This is a one-page Test App for a Kiosk site that demonstrates session management with automatic expiration functionality.
+This is a one-page Production App for a Kiosk site that demonstrates session management with automatic expiration functionality.
 
 ## Overview
 
-The Kiosk Test App is a simple web application designed to simulate a public kiosk interface where users can log in with their basic information. The application features automatic session management with timed expiration to ensure user data doesn't persist indefinitely on public terminals.
+The Kiosk Production App is a simple web application designed to simulate a public kiosk interface where users can log in with their basic information. The application features automatic session management with timed expiration to ensure user data doesn't persist indefinitely on public terminals.
 
 ## Features
 
