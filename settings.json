@@ -1,0 +1,7 @@
+  {
+    "name": "KioskPoc",
+    "id": "kiosk-poc",
+    "version": "1.0.0",
+    "description": "A proof of concept for a kiosk application",
+    "author": "Mark Johnston"
+  }
