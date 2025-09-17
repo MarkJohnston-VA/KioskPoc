@@ -1,4 +1,4 @@
-# Kiosk Production App
+# Kiosk Production App - Test2
 
 This is a one-page Production App for a Kiosk site that demonstrates session management with automatic expiration functionality.
 
