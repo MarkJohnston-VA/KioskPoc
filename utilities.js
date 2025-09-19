@@ -17,3 +17,11 @@ function multiply(number1, number2) {
 
 const product = multiply(5, 10);
 console.log(product);
+
+function divide(number1, number2) {
+  return number1 / number2;
+}
+
+const result = divide(20, 4);
+console.log(result);
+
