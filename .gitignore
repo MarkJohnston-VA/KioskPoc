@@ -1,4 +1,4 @@
 #Exclude Node Modules folder
 node_modules/
 
-
+localSettings.env
